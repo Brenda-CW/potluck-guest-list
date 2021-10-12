@@ -1,0 +1,3 @@
+This project builds a guest list and assigns potluck dishes to each person who rsvps.
+
+Description: To build this program, you’ll work with event handlers, function expressions, and querySelectorAll(). 
